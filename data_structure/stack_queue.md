@@ -521,9 +521,9 @@ func updateMatrix(matrix [][]int) [][]int {
 
 ## 练习
 
-- [ ] [min-stack](https://leetcode-cn.com/problems/min-stack/)
-- [ ] [evaluate-reverse-polish-notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
-- [ ] [decode-string](https://leetcode-cn.com/problems/decode-string/)
+- [x] [min-stack](https://leetcode-cn.com/problems/min-stack/)
+- [x] [evaluate-reverse-polish-notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
+- [x] [decode-string](https://leetcode-cn.com/problems/decode-string/)
 - [ ] [binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 - [ ] [clone-graph](https://leetcode-cn.com/problems/clone-graph/)
 - [ ] [number-of-islands](https://leetcode-cn.com/problems/number-of-islands/)
