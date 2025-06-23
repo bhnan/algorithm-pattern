@@ -773,10 +773,10 @@ func max(a,b int)int{
 
 Matrix DP (10%)
 
-- [ ] [triangle](https://leetcode-cn.com/problems/triangle/)
-- [ ] [minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/)
-- [ ] [unique-paths](https://leetcode-cn.com/problems/unique-paths/)
-- [ ] [unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii/)
+- [x] [triangle](https://leetcode-cn.com/problems/triangle/)
+- [x] [minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/)
+- [x] [unique-paths](https://leetcode-cn.com/problems/unique-paths/)
+- [x] [unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii/)
 
 Sequence (40%)
 
