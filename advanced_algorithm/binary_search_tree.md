@@ -171,5 +171,5 @@ func Max(a,b int)int{
 
 - [x] [validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 - [x] [insert-into-a-binary-search-tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
-- [ ] [delete-node-in-a-bst](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
-- [ ] [balanced-binary-tree](https://leetcode-cn.com/problems/balanced-binary-tree/)
+- [x] [delete-node-in-a-bst](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
+- [x] [balanced-binary-tree](https://leetcode-cn.com/problems/balanced-binary-tree/)

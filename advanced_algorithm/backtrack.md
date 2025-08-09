@@ -194,10 +194,10 @@ func backtrack(nums []int, visited []bool, list []int, result *[][]int) {
 
 ## 练习
 
-- [ ] [subsets](https://leetcode-cn.com/problems/subsets/)
-- [ ] [subsets-ii](https://leetcode-cn.com/problems/subsets-ii/)
-- [ ] [permutations](https://leetcode-cn.com/problems/permutations/)
-- [ ] [permutations-ii](https://leetcode-cn.com/problems/permutations-ii/)
+- [x] [subsets](https://leetcode-cn.com/problems/subsets/)
+- [x] [subsets-ii](https://leetcode-cn.com/problems/subsets-ii/)
+- [x] [permutations](https://leetcode-cn.com/problems/permutations/)
+- [x] [permutations-ii](https://leetcode-cn.com/problems/permutations-ii/)
 
 挑战题目
 
@@ -205,4 +205,3 @@ func backtrack(nums []int, visited []bool, list []int, result *[][]int) {
 - [ ] [letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 - [ ] [palindrome-partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)
 - [ ] [restore-ip-addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)
-- [ ] [permutations](https://leetcode-cn.com/problems/permutations/)
